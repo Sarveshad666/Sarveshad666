@@ -2,21 +2,25 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarveshad666&label=Profile%20views&color=0e75b6&style=flat" alt="Sarvesha" /> </p> -->
 Here is What i am working on ...
 
+
 🚀 Currently Navigating the MERN Galaxy!
 
 🔭 Exploring the Full Stack Universe:
 
     - Crafting seamless applications using the MERN stack: MongoDB, Express.js, React.js, and Node.js.
+
     - Building user-friendly interfaces and powerful backend logic that work in perfect orbit.
 
 🌱 Growing in the Garden of Code:
 
     - Constantly nurturing my skills in JavaScript, APIs, and modern frameworks.
+
     - Experimenting with UI/UX best practices and performance optimization.
 
 🤔 On a Mission to Mastery:
 
     - Diving deeper into full-stack projects and exploring real-time web apps, authentication, RESTful APIs, and cloud deployment.
+
     - Always open to learning from fellow explorers and team missions!
 
 😉 Fun Fact:
