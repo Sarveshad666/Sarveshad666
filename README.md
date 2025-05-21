@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesha</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=praju-1&label=Profile%20views&color=0e75b6&style=flat" alt="Sarvesha" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarveshad666&label=Profile%20views&color=0e75b6&style=flat" alt="Sarvesha" /> </p> -->
 Here is What i am working on ...
 
 🚀 *Currently Exploring the Cosmos of Code!*
@@ -22,14 +22,14 @@ Here is What i am working on ...
 
   
 📫 *Transmission Incoming:*
-     - Reach out to me at prajaktatayde26@gmail.com to connect, collaborate, or share your favorite coding anecdotes. Let's explore the infinite possibilities together!
+     - Reach out to me at sarveshad666@gmail.com to connect, collaborate, or share your favorite coding anecdotes. Let's explore the infinite possibilities together!
 
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"alt="python" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="python" width="60" height="60"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="python" width="60" height="60"/> </a>  <a href=" https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"alt="python" width="60" height="60"/> </a> <a href=" https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"alt="python" width="60" height="60"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="seaborn" width="60" height="60"/> </a>    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="seaborn" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
+  --
   
-  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=praju-1&theme=dark&border_radius=5" alt="prajakta" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praju-1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="prajakta" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praju-1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="prajakta" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sarveshad666&theme=dark&border_radius=5" alt="Sarvesha" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarveshad666&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Sarvesha" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshad666&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Sarvesha" /></p>
