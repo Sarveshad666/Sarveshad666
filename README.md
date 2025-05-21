@@ -5,24 +5,30 @@ Here is What i am working on ...
 🚀 Currently Navigating the MERN Galaxy!
 
 🔭 Exploring the Full Stack Universe:
+
     - Crafting seamless applications using the MERN stack: MongoDB, Express.js, React.js, and Node.js.
     - Building user-friendly interfaces and powerful backend logic that work in perfect orbit.
 
 🌱 Growing in the Garden of Code:
+
     - Constantly nurturing my skills in JavaScript, APIs, and modern frameworks.
     - Experimenting with UI/UX best practices and performance optimization.
 
 🤔 On a Mission to Mastery:
+
     - Diving deeper into full-stack projects and exploring real-time web apps, authentication, RESTful APIs, and cloud deployment.
     - Always open to learning from fellow explorers and team missions!
 
 😉 Fun Fact:
+
     - I'm a problem-solving enthusiast—think of me as a space detective debugging bugs and aligning the stars of logic.
 
 🌟 Mission Control:
+
     - Open to collaborations, contributions, and cool projects that make a difference in the tech universe.
 
 📫 Transmission Incoming:
+
     - Contact me at sarveshad666@gmail.com — let’s team up, build, and launch something stellar!
 
 <h3 align="left">Languages and Tools:</h3>
